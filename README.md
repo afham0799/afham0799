@@ -11,7 +11,7 @@
 ### 🚀 My Projects
 - **Selenium Automation with JMeter**: Automate web interactions using Selenium and integrate it with JMeter for performance testing.
 - **System Monitoring Script**: Developed scripts for monitoring CPU, memory, and storage usage with PostgreSQL integration.
-- **Web-Based Car Recommendation System using Web Scraping for Budget-Conscious Buyer**: Utilizes web scraping to gather car listings and recommend options based on user preferences, such as budget, brand, and features.
+- **Web-Based Car Recommendation System for Budget-Conscious Buyer using Web Scraping**: Utilizes web scraping to gather car listings and recommend options based on user preferences, such as budget, brand, and features.
 
 ### 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
