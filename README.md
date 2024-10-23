@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I'm an avid gamer and tech enthusiast!
 
 ### 🚀 My Projects
-- **Selenium Automation with JMeter**: Automating web interactions using Selenium and integrating it with JMeter for performance testing.
+- **Selenium Automation with JMeter**: Automate web interactions using Selenium and integrate it with JMeter for performance testing.
 - **System Monitoring Script**: Developed scripts for monitoring CPU, memory, and storage usage with PostgreSQL integration.
 - **Web-Based Car Recommendation System using Web Scraping for Budget-Conscious Buyer**: Utilizes web scraping to gather car listings and recommend options based on user preferences, such as budget, brand, and features.
 
