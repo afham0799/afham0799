@@ -40,5 +40,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/khaireez-mas-afham)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail)](mailto:masafham0799@gmail.com)
 
+### GitHub Stats:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afham0799&show_icons=true&locale=en" alt="afham0799" /></p>
+
 ### Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afham0799&layout=compact&theme=dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afham0799&layout=compact&theme=dark" alt="Top Languages" /></p>
+
